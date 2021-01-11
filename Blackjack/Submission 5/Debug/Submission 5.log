@@ -1,0 +1,7 @@
+﻿  blackjack.cpp
+C:\Users\Enoch\Downloads\blackjack.cpp(200,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Enoch\Downloads\blackjack.cpp(295,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Enoch\Downloads\blackjack.cpp(303,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Enoch\Downloads\blackjack.cpp(309,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Enoch\Downloads\blackjack.cpp(343): warning C4715: 'getAdvice': not all control paths return a value
+  Submission 5.vcxproj -> C:\Users\Enoch\Documents\Computer Science\Coms1018\Assignments\Assignment 2\Submission 5\Debug\Submission 5.exe
